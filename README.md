@@ -122,6 +122,8 @@ Run Synthesis → Implementation → Generate Bitstream
 Program Boolean Board
 Change switches and verify LED output
 
+## OUTPUT
+
 ## RESULT
 The 8×1 multiplexer was successfully designed using 2×1 multiplexers, simulated in Vivado, and implemented on the Boolean Board (Spartan-7).
 The output LED correctly displayed the selected input based on the select switch values.
