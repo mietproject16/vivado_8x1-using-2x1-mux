@@ -1,4 +1,6 @@
 ## vivado_8x1-using-2x1-mux
+## REG NUM :
+## NAME :
 ## EXPERIMENT – 1  Design and Implementation of 8×1 Multiplexer Using 2×1 Multiplexers
 
 ## AIM
