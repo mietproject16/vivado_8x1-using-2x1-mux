@@ -1,6 +1,6 @@
 ## vivado_8x1-using-2x1-mux
-## REG NUM :
-## NAME :
+## REG NUM :25019176
+## NAME :Arun M
 ## EXPERIMENT – 1  Design and Implementation of 8×1 Multiplexer Using 2×1 Multiplexers
 
 ## AIM
@@ -125,6 +125,7 @@ Program Boolean Board
 Change switches and verify LED output
 
 ## OUTPUT
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/37f1c45b-9fb1-4de5-91ae-778255d9f522" />
 
 ## RESULT
 The 8×1 multiplexer was successfully designed using 2×1 multiplexers, simulated in Vivado, and implemented on the Boolean Board (Spartan-7).
